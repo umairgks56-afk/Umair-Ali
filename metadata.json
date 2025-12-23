@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Umair Ali - Creative Portfolio",
+  "description": "A high-end 3D motion graphic portfolio for Umair Ali, featuring advanced animations and interactive 3D elements.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
